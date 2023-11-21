@@ -1,0 +1,22 @@
+{
+  "name": "marvel-paladin-nimrod",
+  "version": "1.0.0",
+  "description": "Your one-stop hub for Marvel heroes! Explore a curated database, seamlessly search for your favorites, and leverage API integration. Open source and user-friendly, dive into the Marvel Universe with ease. Contribute to enhance the collective knowledge of Marvel superheroes. Unleash the power of collaboration!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uditsingh-epi/marvel-paladin-nimrod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uditsingh-epi/marvel-paladin-nimrod/issues"
+  },
+  "homepage": "https://github.com/Uditsingh-epi/marvel-paladin-nimrod#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
